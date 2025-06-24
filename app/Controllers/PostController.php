@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 use Somecode\Framework\Http\Response;
 
-class PostControllers
+class PostController
 {
     public function show(int $id): Response
     {
